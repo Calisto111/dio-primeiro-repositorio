@@ -1,0 +1,9 @@
+Lógica de programação	-	ok
+Fundamentos C#
+Servidores
+Versionamento de código	  -	ok
+Base de dados relacional  -	ok
+Base de dados não relacional
+EPI
+Escalabilidade
+Segurança
